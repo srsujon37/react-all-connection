@@ -6,17 +6,10 @@ function App() {
 
   return (
     <>
-
-  
       <header>
         <Navbar></Navbar>
-        <DaisyNav></DaisyNav>
+        {/* <DaisyNav></DaisyNav> */}
       </header>
-
-
-
-
-     
     </>
   )
 }
