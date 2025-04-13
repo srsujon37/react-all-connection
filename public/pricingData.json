@@ -17,6 +17,7 @@
       "id": 2,
       "title": "Standard Plan",
       "price": "$49/month",
+      "popular": true,
       "info": "Ideal for regular gym-goers looking for a bit more support.",
       "features": [
         "Everything in Basic Plan",
@@ -24,8 +25,8 @@
         "Access to all group classes",
         "Nutrition guidance",
         "Open gym access (6am - 10pm)",
-        "1 guest pass/month",
-        "Free yoga sessions (weekends)"
+        "1 guest pass/month"
+        
       ]
     },
     {
@@ -39,9 +40,8 @@
         "Priority class booking",
         "Free gym merchandise",
         "Steam & sauna access",
-        "Private locker room access",
-        "Massage therapy session (1/month)",
-        "Exclusive fitness workshops"
+        "Private locker room access"
+    
       ]
     }
   ]
